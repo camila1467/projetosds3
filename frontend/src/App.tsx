@@ -7,7 +7,7 @@ import NavBar from "components/NavBar";
 
 function App() {
   return (
-    <div> ola mundo</div>
+    <div> <h1 className="text-primary">ola mundo</h1></div>
   );
 }
 
